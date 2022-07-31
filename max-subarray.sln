@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSubarray", "MaxSubarray\MaxSubarray.csproj", "{5E865F6C-C6DE-44D0-84D8-E3D4AD676D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxSubarray.Tests", "MaxSubarray.Tests\MaxSubarray.Tests.csproj", "{0445BC5E-70FE-4C9A-9FB1-1D74FCC5CD84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E865F6C-C6DE-44D0-84D8-E3D4AD676D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E865F6C-C6DE-44D0-84D8-E3D4AD676D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E865F6C-C6DE-44D0-84D8-E3D4AD676D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E865F6C-C6DE-44D0-84D8-E3D4AD676D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0445BC5E-70FE-4C9A-9FB1-1D74FCC5CD84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0445BC5E-70FE-4C9A-9FB1-1D74FCC5CD84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0445BC5E-70FE-4C9A-9FB1-1D74FCC5CD84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0445BC5E-70FE-4C9A-9FB1-1D74FCC5CD84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
